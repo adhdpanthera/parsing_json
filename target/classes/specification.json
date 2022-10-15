@@ -1,0 +1,13 @@
+{
+  "id": 63,
+  "fullName": {
+    "name": "Abra",
+    "surname": "Kadabra",
+    "patronymic": "Alakazam"
+  },
+  "berries": ["Liechi Berry", "Colbur Berry", "Gold Berry"],
+  "authorization":{
+    "login":"PokeMaster",
+    "password": "Pikachu"
+  }
+}
