@@ -1,3 +1,3 @@
 # parsing_json
 
-Parsing JSON with Gson
+Парсинг JSON файла с использованием Gson
